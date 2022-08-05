@@ -13,7 +13,7 @@ After a Big Data Cloud service like Apache Spark?  Then Amazon EMR is for you.
 
 **Hadoop**- Hadoop Core 2.10.1, Hive 2.3.9, Hue 4.10.0, Mahout 0.13.0, Pig 0.17.0 & Tez 0.9.2
 
-
+------------------
 
 **After Data Analytics then AWS hosted Kinesis is for you.**
 
