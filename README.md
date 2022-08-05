@@ -1,7 +1,7 @@
 # AWS-Big-Data
 AWS Amazon Web Service Big Data Fun
 
-After a Big Data Cloud service like Apache Spark?  Then Amazon EMR is for you.
+Need a Big Data Cloud service like Apache Spark?  have a look at Amazon EMR.
 -----------------
 **EMR 5.36.0 Application choices**
 
