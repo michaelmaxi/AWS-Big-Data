@@ -3,7 +3,7 @@ AWS Amazon Web Service Big Data Fun
 
 Need a Big Data Cloud service like Apache Spark?  have a look at Amazon EMR.
 -----------------
-**EMR 5.36.0 Application choices**
+**AWS - EMR 5.36.0 Application choices**
 
 **Spark** - Spark 2.48 on Hadoop 2.10.1 YARN & Zeppelin 0.10.0
 
@@ -15,11 +15,11 @@ Need a Big Data Cloud service like Apache Spark?  have a look at Amazon EMR.
 
 ------------------
 
-**After Data Analytics then AWS hosted Kinesis is for you.**
+**AWS Kinesis**
 
-**Kinesis Analystics**
+**Kinesis Analystics** hosted on AWS
 
-**Kinesis Streams**
+**Kinesis Streams** hosted on AWS
 
 ------------------
 **AWS Glue**
