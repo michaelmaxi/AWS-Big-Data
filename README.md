@@ -26,8 +26,7 @@ Need a Big Data Cloud service like Apache Spark?  have a look at Amazon EMR.
 A data integration service for discover, prepare and combine data for analytics and Machine Learning.  
 
 **AWS Glue Studio** - Here you can import Raw Data and Data Engineers can ETL 
-
 ------------------
 **AWS Athena** Query Editor [Click Here](https://github.com/michaelmaxi/AWS-Big-Data/tree/main/Athena)
 ------------------
-**AWS Quicksight** Cloud BI [Click Here](https://github.com/michaelmaxi/AWS-Big-Data/tree/main/Quicksight)
+**AWS Quicksight** AWS Cloud BI tool [Click Here](https://github.com/michaelmaxi/AWS-Big-Data/tree/main/Quicksight)
