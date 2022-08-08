@@ -28,5 +28,6 @@ A data integration service for discover, prepare and combine data for analytics 
 **AWS Glue Studio** - Here you can import Raw Data and Data Engineers can ETL 
 
 ------------------
-**AWS Athena**
-Query Editor
+**AWS Athena** Query Editor [Click Here](https://github.com/michaelmaxi/AWS-Big-Data/tree/main/Athena)
+------------------
+**AWS Quicksight** Cloud BI [Click Here](https://github.com/michaelmaxi/AWS-Big-Data/tree/main/Quicksight)
