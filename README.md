@@ -23,4 +23,7 @@ Need a Big Data Cloud service like Apache Spark?  have a look at Amazon EMR.
 
 ------------------
 **AWS Glue**
-A data integration service for discover, prepare and combine data for analytics and Machine Learning.  Data engineers can extract transform and load (ETL) and monitor workflows in AWS Glue Studio
+A data integration service for discover, prepare and combine data for analytics and Machine Learning.  
+
+**AWS Glue Studio** - Here you can import Raw Data and Data Engineers can ETL 
+
