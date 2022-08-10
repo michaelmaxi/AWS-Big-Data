@@ -1,0 +1,8 @@
+ETL
+1. Create a Bucket in S3, then create folders /raw & /processed in your bucket
+2. Upload the *.CSV file you wish to process into the /raw folder
+3. Create a database for the Crawler to generate a schema in
+3. Create a Crawler to generate the Schemas.  Include folders /raw & /processed
+4. Create a Job to process Schema and convert *.CSV file to *.parquet
+5. Save & Run Job
+6. View Results
