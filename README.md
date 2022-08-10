@@ -29,4 +29,4 @@ Need a Big Data Cloud service like Apache Spark?  have a look at Amazon EMR.
 [Click Here](https://github.com/michaelmaxi/AWS-Big-Data/tree/main/Athena)
 
 ------------------
-**AWS Quicksight** AWS Cloud BI tool [Click Here](https://github.com/michaelmaxi/AWS-Big-Data/tree/main/QuickSight)
+**AWS Quicksight** AWS Cloud BI tool for DataSets, Analysis & Dashboards [Click Here](https://github.com/michaelmaxi/AWS-Big-Data/tree/main/QuickSight)
