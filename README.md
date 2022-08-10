@@ -22,7 +22,7 @@ Need a Big Data Cloud service like Apache Spark?  have a look at Amazon EMR.
 **Kinesis Streams** hosted on AWS
 
 ------------------
-**AWS Glue** - A data integration service for discover, prepare and combine data for analytics and Machine Learning.  AWS Glue Studio - Here you can import Raw Data and Data Engineers can ETL. 1. Upload *.CSV file to S3 folder /raw, 2. Create a crawler to create Schemas for folder /raw & /processed, 3. Create a Job to process Schema and convert *.CSV file to *.parquet
+**AWS Glue** - A data integration service for discover, prepare and combine data for analytics and Machine Learning.  AWS Glue Studio - Here you can import Raw Data and Data Engineers can ETL. AWS Instructions [Click Here](https://github.com/michaelmaxi/AWS-Big-Data/tree/main/Glue)
 
 ------------------
 **AWS Athena** - A SQL Database & Query Engine built on **PRESTO**.  Athena also allows you to query text files stored in S3 without even creating a database
