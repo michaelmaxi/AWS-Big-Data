@@ -31,3 +31,7 @@ Need a Big Data Cloud service like Apache Spark?  have a look at Amazon EMR.
 ------------------
 **AWS Quicksight** AWS Cloud BI tool for DataSets, Analysis & Dashboards [Click Here](https://github.com/michaelmaxi/AWS-Big-Data/tree/main/QuickSight)
 **AWS Machine Learning with Insights** Quicksight allows you to utilize ML out of the box
+
+------------------
+**AWS IoT Analytics** - a fully-managed service which allows you to run sophisticated analytics on massive volumes of IoT data.
+
