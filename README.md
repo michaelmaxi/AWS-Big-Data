@@ -41,3 +41,6 @@ Need a Big Data Cloud service like Apache Spark?  have a look at Amazon EMR.
 ------------------
 **AWS Redshift** - Data warehouse for storing large amounts of transactional data, perfect for an OLAP database used to analyse your data.
 
+------------------
+**AWS DynamoDB** - key value document storage with low-latency data access at any scale.
+
