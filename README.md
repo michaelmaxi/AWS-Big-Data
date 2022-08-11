@@ -34,9 +34,9 @@ Need a Big Data Cloud service like Apache Spark?  have a look at Amazon EMR.
 
 **AWS EMR** - Batch processing massive amounts of data at extremely high velocity.  
 
-**AWS Kinesis Firehouse** - Easy way to capture, transform and load data streams into AWS Data stores.
+**AWS Kinesis Firehouse** - Easy way to capture, transform and load data **STREAMS** into AWS Data stores.
 
-**AWS Kinesis Data Analystics** - Data Stream processing allowing for aggregations and filtering.
+**AWS Kinesis Data Analystics** - Data **STREAM** processing allowing for aggregations and filtering.
 
 ------------------
 **AWS Redshift** - Data warehouse for storing large amounts of transactional data
