@@ -30,11 +30,11 @@ Need a Big Data Cloud service like Apache Spark?  have a look at Amazon EMR.
 ------------------
 **AWS Kinesis** - Data Streaming.  Below considers services that look at **Batch & Stream Data Processing**.
 
-**AWS Lambda** - A serverless service that can trigger batch processing.
+**AWS Lambda** - Data **BATCH** service which can be triggered for processing by Lambda
 
-**AWS EMR** - Batch processing massive amounts of data at extremely high velocity.  
+**AWS EMR** - Data **BATCH** serive for processing massive amounts of data at extremely high velocity.  
 
-**AWS Kinesis Firehouse** - Easy way to capture, transform and load data **STREAMS** into AWS Data stores.
+**AWS Kinesis Firehouse** - Easy way to capture, transform and load Data **STREAMS** into AWS Data stores.
 
 **AWS Kinesis Data Analystics** - Data **STREAM** processing allowing for aggregations and filtering.
 
