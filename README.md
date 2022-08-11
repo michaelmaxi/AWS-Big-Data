@@ -14,18 +14,10 @@ Need a Big Data Cloud service like Apache Spark?  have a look at Amazon EMR.
 **Hadoop**- Hadoop Core 2.10.1, Hive 2.3.9, Hue 4.10.0, Mahout 0.13.0, Pig 0.17.0 & Tez 0.9.2
 
 ------------------
-
-**AWS Kinesis**
-
-**Kinesis Analystics** hosted on AWS
-
-**Kinesis Streams** hosted on AWS
-
-------------------
 **AWS Glue** - A data integration service for discover, prepare and combine data for analytics and Machine Learning.  AWS Glue Studio - Here you can import Raw Data and Data Engineers can ETL. AWS Instructions [Click Here](https://github.com/michaelmaxi/AWS-Big-Data/tree/main/Glue)
 
 ------------------
-**AWS Athena** - A SQL Database & Query Engine built on **PRESTO**.  Athena also allows you to query text files stored in S3 without even creating a database
+**AWS Athena** - A SQL Database & Query Engine built on **PRESTO**.  Athena allows you to use SQL to query files stored in S3. 
 [Click Here](https://github.com/michaelmaxi/AWS-Big-Data/tree/main/Athena)
 
 ------------------
@@ -34,4 +26,16 @@ Need a Big Data Cloud service like Apache Spark?  have a look at Amazon EMR.
 
 ------------------
 **AWS IoT Analytics** - a fully-managed service which allows you to run sophisticated analytics on massive volumes of IoT data.
+
+------------------
+
+**AWS Kinesis** - Data Streaming.  Below considers services that look at **Batch & Stream Data Processing**.
+
+**AWS Lambda** - A serverless service that can trigger batch processing.
+**AWS EMR** - Batch processing massive amounts of data at extremely high velocity.  
+**AWS Kinesis Firehouse - Easy way to capture, transform and load data streams into AWS Data stores.
+**AWS Kinesis Data Analystics - Data Stream processing allowing for aggregations and filtering.
+
+------------------
+**AWS Redshift** - Data warehouse for storing large amounts of transactional data
 
