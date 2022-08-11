@@ -44,3 +44,6 @@ Need a Big Data Cloud service like Apache Spark?  have a look at Amazon EMR.
 ------------------
 **AWS DynamoDB** - key value document storage with low-latency data access at any scale.
 
+------------------
+**AWS Neptune** - fast and reliable graph database service.  Optimized for storing billions of relationships
+
