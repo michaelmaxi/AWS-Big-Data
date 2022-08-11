@@ -39,5 +39,5 @@ Need a Big Data Cloud service like Apache Spark?  have a look at Amazon EMR.
 **AWS Kinesis Data Analystics** - Data **STREAM** processing allowing for aggregations and filtering.
 
 ------------------
-**AWS Redshift** - Data warehouse for storing large amounts of transactional data
+**AWS Redshift** - Data warehouse for storing large amounts of transactional data, perfect for an OLAP database used to analyse your data.
 
