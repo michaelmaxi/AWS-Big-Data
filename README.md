@@ -28,13 +28,15 @@ Need a Big Data Cloud service like Apache Spark?  have a look at Amazon EMR.
 **AWS IoT Analytics** - a fully-managed service which allows you to run sophisticated analytics on massive volumes of IoT data.
 
 ------------------
-
 **AWS Kinesis** - Data Streaming.  Below considers services that look at **Batch & Stream Data Processing**.
 
 **AWS Lambda** - A serverless service that can trigger batch processing.
+
 **AWS EMR** - Batch processing massive amounts of data at extremely high velocity.  
-**AWS Kinesis Firehouse - Easy way to capture, transform and load data streams into AWS Data stores.
-**AWS Kinesis Data Analystics - Data Stream processing allowing for aggregations and filtering.
+
+**AWS Kinesis Firehouse** - Easy way to capture, transform and load data streams into AWS Data stores.
+
+**AWS Kinesis Data Analystics** - Data Stream processing allowing for aggregations and filtering.
 
 ------------------
 **AWS Redshift** - Data warehouse for storing large amounts of transactional data
